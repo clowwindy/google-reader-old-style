@@ -1,7 +1,6 @@
 @namespace url(http://www.w3.org/1999/xhtml);
 
-@-moz-document domain(google.com),  
-               regexp(".*google.com/reader/.*")   {
+@-moz-document regexp("https?://www.google.com/reader/.*")   {
 
 #top-bar {
     height: 40px !important;
