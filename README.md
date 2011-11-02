@@ -7,8 +7,8 @@ Notice that this userstyle won't get the sharing feature back.
 Usage
 -------
 
-1. Install Stylish for your [Firefox] or [Chrome].
-2. Install this [userstyle].
+1. Install Stylish for your [Firefox][Firefox] or [Chrome][Chrome].
+2. Install this [User script][userstyle].
 
 [Firefox]: https://addons.mozilla.org/en-US/firefox/addon/stylish/
 [Chrome]: https://chrome.google.com/webstore/detail/fjnbnpbmkenffdnngjfgmeleoegfcffe
