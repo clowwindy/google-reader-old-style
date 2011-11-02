@@ -36,6 +36,10 @@
     background: none repeat scroll 0 0 #C2CFF1 !important;
     height: 30px !important;
 }
+.goog-button-base,.jfk-button,.goog-flat-menu-button {
+    font-size: 1em !important;
+    font-weight: normal !important;
+}
 .goog-menu-button .goog-button-base-content {
     padding: 7px !important;
 }
